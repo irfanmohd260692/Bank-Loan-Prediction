@@ -6,4 +6,6 @@ To Build a Application Scorecard which help us to identify the bad customers for
 
 **Platform** 
 
-Python -- Sklearn , Pandas , Numpy , Seaborn & Matplotlin
+Python -- Sklearn , Pandas , Numpy , Seaborn & Matplotlib
+
+**Solution**
